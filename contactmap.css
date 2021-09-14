@@ -108,22 +108,17 @@ a {
   .map {
     display: none;
   }
+  #contact{
+  padding-top: 50%;
+  }
 }
 @media (max-width: 450px) {
   .social {
     display: none;
   }
-  .contact-box {
-    width: 100%;
-    height: 100vh;
-    box-sizing: border-box;
-  }
   #contact {
-    position: static;
-    transform: translate(0, 0);
-    width: 100%;
-    height: 100vh;
     box-sizing: border-box;
+    padding-top: 50%;
   }
   .c-heading h1 {
     font-size: 2.2rem;

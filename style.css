@@ -1,4 +1,12 @@
 @import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap");
+#ourfleets,#services1 {
+  padding-top: 4%;
+  padding-bottom: 5%;
+}
+#content1{
+  padding-top: 4%;
+}
+
 .section id{
   text-decoration: line-through;
 }
@@ -455,7 +463,7 @@ a:hover {
 }
 
 #about p {
-  font-size: 1.9rem;
+  font-size: 1.2rem;
   color: #555;
 }
 
